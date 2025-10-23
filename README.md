@@ -5,4 +5,5 @@ This repository contains coursework completed as part of the **IBM Data Analyst 
 Analysis of Tesla and GameStop financial data, creating an interactive dashboard to aid the analysis.
 
 [Link to Tesla Dashboard](https://kirisannn.github.io/Python-Project-for-Data-Science/figure_22%20(Tesla).html)
+
 [Link to GameStop Dashboard](https://kirisannn.github.io/Python-Project-for-Data-Science/figure_23%20(GameStop).html)
